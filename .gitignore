@@ -1,3 +1,8 @@
 /bin
 /src/LitJson/AssemblyInfo.cs
 /website
+*.sublime-project
+*.sublime-workspace
+*.mdb
+.DS_Store
+*.meta
